@@ -9,9 +9,7 @@ Name of QuantLet: ISP_lifelinesDemo
 
 Published in: An Introduction to Statistics with Python
 
-Description: Demonstration of the package <lifelines>
-
-Based on the demo-code in http: //lifelines.readthedocs.org, by Cam
+Description: Demonstration of the package <lifelines> Based on the demo-code in http://lifelines.readthedocs.org, by Cam Davidson-Pilon
 
 Keywords: logrank test, kaplan-meier curve
 
