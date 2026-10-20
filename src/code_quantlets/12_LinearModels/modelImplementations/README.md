@@ -9,10 +9,7 @@ Name of QuantLet: ISP_modelImplementations
 
 Published in: An Introduction to Statistics with Python
 
-Description: Three different ways to fit a linear model:
-- analytically
-- using the statsmodels tools
-- using the formula-based approach
+Description: Three different ways to fit a linear model: - analytically - using the statsmodels tools - using the formula-based approach
 
 Keywords: linear regression model
 
