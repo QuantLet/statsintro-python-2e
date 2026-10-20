@@ -9,9 +9,7 @@ Name of QuantLet: ISP_distDiscrete
 
 Published in: An Introduction to Statistics with Python
 
-Description: Different discrete distribution functions.
-- Binomial distribution
-- Poisson distribution (PMF, CDF, and PPF)
+Description: Different discrete distribution functions. - Binomial distribution - Poisson distribution (PMF, CDF, and PPF)
 
 Keywords: binomial distribution, poisson distribution, plot
 
