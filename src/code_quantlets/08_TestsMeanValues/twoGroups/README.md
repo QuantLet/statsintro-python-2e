@@ -9,13 +9,11 @@ Name of QuantLet: ISP_twoGroups
 
 Published in: An Introduction to Statistics with Python
 
-Description: Comparison of two groups
-- Analysis of paired data
-- Analysis of unpaired data
+Description: Comparison of two groups - Analysis of paired data - Analysis of unpaired data
 
 Keywords: t-test, paired t-test, wilcoxon signed rank sum test, mann whitney u test
 
-See also: ISP_anovaOneway, ISP_anovaTwoway, ISP_kruskalWallis,
+See also: ISP_anovaOneway, ISP_anovaTwoway, ISP_kruskalWallis, ISP_multipleTesting, ISP_oneGroup
 
 Author: Thomas Haslwanter
 
