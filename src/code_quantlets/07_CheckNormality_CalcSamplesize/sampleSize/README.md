@@ -9,9 +9,7 @@ Name of QuantLet: ISP_sampleSize
 
 Published in: An Introduction to Statistics with Python
 
-Description: Calculate the sample size for experiments, for normally distributed groups, for:
-- Experiments with one single group
-- Comparing two groups
+Description: Calculate the sample size for experiments, for normally distributed groups, for: - Experiments with one single group - Comparing two groups
 
 Keywords: sample size
 
