@@ -9,13 +9,11 @@ Name of QuantLet: ISP_bootstrapDemo
 
 Published in: An Introduction to Statistics with Python
 
-Description: Example of bootstrapping the confidence interval for the mean of a sample distribution
-
-https: //github.com/cgevans/scikits-bootstrap
+Description: Example of bootstrapping the confidence interval for the mean of a sample distribution This function requires <bootstrap.py>, which is available from https://github.com/cgevans/scikits-bootstrap
 
 Keywords: bootstrap
 
-See also: ISP_anscombe, ISP_bivariate, ISP_fitLine,
+See also: ISP_anscombe, ISP_bivariate, ISP_fitLine, ISP_modelImplementations, ISP_simpleModels
 
 Author: Thomas Haslwanter
 
