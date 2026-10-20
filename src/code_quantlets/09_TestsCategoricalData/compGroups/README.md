@@ -9,12 +9,7 @@ Name of QuantLet: ISP_compGroups
 
 Published in: An Introduction to Statistics with Python
 
-Description: Analysis of categorical data
-- Analysis of one proportion
-- Chi-square test
-- Fisher exact test
-- McNemar''s test
-- Cochran''s Q test
+Description: Analysis of categorical data - Analysis of one proportion - Chi-square test - Fisher exact test - McNemar''s test - Cochran''s Q test
 
 Keywords: fisher exact test, chi-square test, mcnemar's test, cochran's test
 
