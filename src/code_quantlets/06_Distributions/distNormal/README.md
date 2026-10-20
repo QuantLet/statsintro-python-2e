@@ -9,10 +9,7 @@ Name of QuantLet: ISP_distNormal
 
 Published in: An Introduction to Statistics with Python
 
-Description: Simple manipulations of normal distribution functions.
-- Different displays of normally distributed data
-- Compare different samples from a normal distribution
-- Work with the cumulative distribution function (CDF)
+Description: Simple manipulations of normal distribution functions. - Different displays of normally distributed data - Compare different samples from a normal distribution - Work with the cumulative distribution function (CDF)
 
 Keywords: probability density function, cumulative distribution function, survival function, percentile point function
 
