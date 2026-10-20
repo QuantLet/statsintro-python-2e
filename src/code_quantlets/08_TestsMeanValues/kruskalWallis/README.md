@@ -13,7 +13,7 @@ Description: Example of a Kruskal-Wallis test (for not normally distributed data
 
 Keywords: kruskal-wallis test,
 
-See also: ISP_anovaOneway, ISP_anovaTwoway,
+See also: ISP_anovaOneway, ISP_anovaTwoway, ISP_multipleTesting, ISP_oneGroup, ISP_twoGroups
 
 Author: Thomas Haslwanter
 
